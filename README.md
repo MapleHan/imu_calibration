@@ -1,3 +1,3 @@
 ### ICM20948加速度计和电子罗盘校准下位机程序
 ### 需要配合校准上位机使用
-### 据以参考知乎文章https://zhuanlan.zhihu.com/p/368744050
+### 使用说明参考知乎文章https://zhuanlan.zhihu.com/p/368744050
